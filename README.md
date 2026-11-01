@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rambo11725
-- 👀 I’m interested in technology, sports, and learning. 
-- 🌱 I’m currently learning Data Analysis.
-- 💞️ I’m looking to collaborate on data cleaning projects.
+- 👀 I’m interested in technology, sports, and learning.
+- I enjoy ethical hacking and learning cybersecurity 
 - 📫 How to reach me, send me an email @onlinework.grow@gmail.com
 
 <!---
